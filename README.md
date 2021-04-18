@@ -4,3 +4,7 @@
 Imagination is more important than knowledge.
 For knowledge is limited, whereas imagination embraces the entire world,
 stimulating progress, giving birth to evolution.
+https://www.facebook.com/dzakykurn1/
+https://www.instagram.com/mhdraihandzaky1/
+https://twitter.com/dj_dzaky?fbclid=IwAR1RXec9527G_A5baO7stB8xo2A88vEURzzpD-29v0a7jDLZBY2Q9Ilm0ls
+https://www.youtube.com/c/DZAKYENTERTAIMENTOFFICIAL/videos
