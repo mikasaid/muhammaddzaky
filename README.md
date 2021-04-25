@@ -1,12 +1,4 @@
-
-
-Github Profile Trophy
-🏆 Add dynamically generated GitHub Trophy on your readme
-
-   
-
-
-
+🏆 Add dynamically generated GitHub Trophy on your readm
 Quick Start
 Add following code to your readme.
 Change the ?username= value to your GitHub's username.
