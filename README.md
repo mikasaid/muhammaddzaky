@@ -1,5 +1,3 @@
-Akshay Saini - YoutubeAkshay Saini - LinkedInAkshay Saini - InstagramAkshay Saini - TwitterAkshay Saini - Facebook
-Hello World,
 I'm an Engineer by profession and a Teacher by passion.
 I share my knowledge by creating Coding & Interview preparation videos.
 Check out my Youtube channel-  मनोरंजनअधिकारी
@@ -19,3 +17,4 @@ Digital Marketing, SEO, SMM, Blogging, Web Security, Wordpress
 Cheers,
 मुहम्मद जाकी
 - मुहम्मद जाकी
+मुहम्मद जाकी - Facebook
