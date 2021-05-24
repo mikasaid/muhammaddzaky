@@ -17,5 +17,4 @@ Digital Marketing, SEO, SMM, Blogging, Web Security, Wordpress
 Cheers,
 मुहम्मद जाकी
 - मुहम्मद जाकी
-
-मुहम्मद जाकी - Facebook
+ Facebook - मुहम्मद जाकी 
