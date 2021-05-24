@@ -9,5 +9,5 @@ Node, Java, Ruby on Rails
 Also interested in:
 Digital Marketing, SEO, SMM, Blogging, Web Security, Wordpress
 Cheers,
-Akshay Saini
-facebook.com/Erorsistemofficial
+मुहम्मद जाकी
+मुहम्मद जाकी
