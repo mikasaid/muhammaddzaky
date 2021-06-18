@@ -6,11 +6,15 @@ stimulating progress, giving birth to evolution.
 
 ☰ Details
 -----BEGIN PGP PUBLIC KEY BLOCK-----
-https://soundcloud.com/della-mix-633469863https://www.facebook.com/dzakychanx/https://www.youtube.com/djdzaky
+
 -----END PGP PUBLIC KEY BLOCK-----
 
 
-✉ E-Mail   💬 Matrix   🎨 DeviantArt   ▶ YouTube
+✉ E-Mail   💬 facebook   🎨soundclound   ▶ YouTube
+https://www.youtube.com/djdzaky
+https://soundcloud.com/djdzakychannel
+https://www.facebook.com/dzakychanx/
+
 
 Top Language GitHub Stats
 
