@@ -1,5 +1,5 @@
-Hello, I'm mhd raihan dzaky ![1](https://user-images.githubusercontent.com/58392246/122900516-f847f880-d376-11eb-8417-f3b67d3473f4.png)
-![2](https://user-images.githubusercontent.com/58392246/122900531-fa11bc00-d376-11eb-8e7f-3226d2bd3ae4.jpg)
+Hello, I'm mhd raihan dzaky ![1](https://user-images.githubusercontent.com/58392246/122900636-101f7c80-d377-11eb-9c81-26bc6811769f.png)
+
 , Born in Indonesia-West Java June 25, 2001, I studied computers since I was 13 years old, Just a Software Engineer with an affinity for Php, Python, Linux, C, GO. Loves performance and technology. very interested in Ai and Machine Learning
 🔭 I’m currently working on PT. Citra Digital Lintas as Software Engineer
 🌱 I’m currently learning Go into expert, Automation, Devops, and Computer Vision
