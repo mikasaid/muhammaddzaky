@@ -1,6 +1,14 @@
-🔭 I’m currently working on my personal projects, you can check youtube.com/DJDZAKY
-⚡ Excited to create open-source projects
-🌱 I’m currently learning web animations and interactivity
-😄 I'm natively speak Indonesian and fluently speak english.
-💕 I'm currently fall in love with NuxtJS and Laravel
-📫 You can reach me at my instagram @dzakychanxd
+ntro
+Hello, I'm muhammad fahriansyah, Born in Indonesia-West Java June 25, 2001, I studied computers since I was 13 years old, Just a Software Engineer with an affinity for Php, Python, JS, C, GO. Loves performance and technology. very interested in Ai and Machine Learning
+🔭 I’m currently working on PT. Citra Digital Lintas as Software Engineer
+🌱 I’m currently learning Go into expert, Automation, Devops, and Computer Vision
+👯 I’m looking to collaborate on Open Source Project but i'm already start in Taklif Projects
+🤔 I’m looking for help with A.I who can fix my code automatically
+💬 Ask me about Coding, Relationship, or anime
+📫 How to reach me:
+Facebook: https://web.facebook.com/dzaky.go.id
+Instagram: https://www.instagram.com/dzakychanxd/
+youtube: youtube.com/djdzaky
+😄 Pronouns: (mhd raihan dzaky) without C
+⚡ Fun fact: My character looks like Tony Stark (seriously)
+My GitHub Stats
