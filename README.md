@@ -1,21 +1,6 @@
-Imagination is more important than knowledge.
-For knowledge is limited, whereas imagination embraces the entire world,
-stimulating progress, giving birth to evolution.
-」
-
-
-☰ Details
------BEGIN PGP PUBLIC KEY BLOCK-----
-
------END PGP PUBLIC KEY BLOCK-----
-
-
-✉ E-Mail   💬 facebook   🎨soundclound   ▶ YouTube
-https://www.youtube.com/djdzaky
-https://soundcloud.com/djdzakychannel
-https://www.facebook.com/dzakychanx/
-
-
-Top Language GitHub Stats
-
-Now Playing
+🔭 I’m currently working on my personal projects, you can check youtube.com/DJDZAKY
+⚡ Excited to create open-source projects
+🌱 I’m currently learning web animations and interactivity
+😄 I'm natively speak Indonesian and fluently speak english.
+💕 I'm currently fall in love with NuxtJS and Laravel
+📫 You can reach me at my instagram @dzakychanxd
