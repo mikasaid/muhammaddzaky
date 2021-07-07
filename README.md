@@ -15,7 +15,7 @@ ___
 
 Wanna Hire Me ? 
 
-Contact : yayanxd@gmail.com
+Contact : dimassuam734@gmail.com
 
 #### Donate
 
@@ -29,4 +29,4 @@ Contact : yayanxd@gmail.com
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammaddzaky&layout=compact" alt="Top language">
 
-![template_s](https://github.com/Yayan-XD/Yayan-XD/blob/master/img/wallpaperbetter_(1).jpg)
+![template_s](https://github.com/muhammaddzaky/muhammaddzaky/blob/master/img/wallpaperbetter_(1).jpg)
