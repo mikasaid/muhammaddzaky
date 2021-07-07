@@ -23,7 +23,7 @@ Contact : mrxcyaber19.be@yahoo.com
 , or i will jump like nishimiya >:(
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=muhammaddzaky&show_icons=true&theme=dark)
-<a href="https://github.com/muhammaddzaky/Silent"><img title="SILENT" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammaddzaky&repo=Silent&theme=vision-friendly-dark"></a>
+<a href="https://github.com/muhammaddzaky/"><img title="SILENT" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammaddzaky&repo=Silent&theme=vision-friendly-dark"></a>
 <a href="https://github.com/muammaddzaky/Craker"><img title="CRAKER" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammaddzaky&repo=Craker&theme=vision-friendly-dark"></a>
 <a href="https://github.com/muhammaddzaky/Cr4ck"><img title="Cr4ck" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammaddzaky&repo=Cr4ck&theme=vision-friendly-dark"></a>
 
