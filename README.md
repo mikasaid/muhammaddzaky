@@ -5,8 +5,8 @@
 * MY SOCIAL MEDIA :
 
 <a href="https://Instagram.com/mr.xcyaber"><img src="https://image.flaticon.com/icons/svg/174/174855.svg" alt="alt text" width="20" height="20"></a> 
-<a href="https://wa.me/685276161113?text=Asalamualaikum+bang"><img src="https://github.com/Yayan-XD/Yayan-XD/blob/master/img/whatsapp.png" alt="alt text" width="20" height="20"></a>
-<a href="https://www.facebook.com/gagalmasuk.be"><img src="https://image.flaticon.com/icons/svg/174/174848.svg" alt="alt text" width="20" height="20"></a> <a href="https://squadcyberpeopleteam.blogspot.com/?m=1"><img src="https://github.com/muhamaddzaky/muhammaddzaky /blob/master/img/logo_blogspot_by_YayanXD.jpg" alt="alt text" width="20" height="20"></a> <a href="https://youtube.com/DJDZAKY"><img src="https://github.com/muhammaddzaky/muhammaddzaky/blob/master/img/logo_yt_by_YayanXD.jpg" alt="alt text" width="20" height="20"></a> 
+<a href="https://wa.me/685276161113?text=Asalamualaikum+bang"><img src="https://github.com/muhammaddzaky/muhammaddzaky/blob/master/img/whatsapp.png" alt="alt text" width="20" height="20"></a>
+<a href="https://www.facebook.com/gagalmasuk.be"><img src="https://image.flaticon.com/icons/svg/174/174848.svg" alt="alt text" width="20" height="20"></a> <a href="https://squadcyberpeopleteam.blogspot.com/?m=1"><img src="https://github.com/muhamaddzaky/muhammaddzaky /blob/master/img/logo_blogspot_by_muhammaddzaky.jpg" alt="alt text" width="20" height="20"></a> <a href="https://youtube.com/DJDZAKY"><img src="https://github.com/muhammaddzaky/muhammaddzaky/blob/master/img/logo_yt_by_muhammaddzaky.jpg" alt="alt text" width="20" height="20"></a> 
 &nbsp;&nbsp;     &nbsp;&nbsp;    &nbsp;&nbsp;   &nbsp;&nbsp;   &nbsp;&nbsp;   
 ___
 _Smoking And Coffiee_
