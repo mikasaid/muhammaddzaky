@@ -1,4 +1,4 @@
-<img src="https://github.com/muhammaddzaky/muhammaddzaky/blob/master/img/20200909_084956.jpg" width="120" height="120" align="left">
+<img src="https://github.com/muhammaddzaky" width="120" height="120" align="left">
 <center>
 
 
