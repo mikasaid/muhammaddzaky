@@ -1,25 +1,32 @@
-### Hi there 👋
-![Profile views](https://komarev.com/ghpvc/?username=muhammaddzaky&color=brightgreen)
+<img src="https://github.com/Yayan-XD/Yayan-XD/blob/master/img/20200909_084956.jpg" width="120" height="120" align="left">
+<center>
 
-## Contact me
 
-[Facebook](https://facebook.com/zackgo.id) | [Twitter](https://twitter.com/dj_dzaky) | [Instagram](https://instagram.com/dzakychanxd) |  
+* MY SOCIAL MEDIA :
 
-Here are some ideas to get you started:
+<a href="https://Instagram.com/mr.xcyaber_"><img src="https://image.flaticon.com/icons/svg/174/174855.svg" alt="alt text" width="20" height="20"></a> 
+<a href="https://wa.me/6285276161113?text=Asalamualaikum+bang"><img src="https://github.com/Yayan-XD/Yayan-XD/blob/master/img/whatsapp.png" alt="alt text" width="20" height="20"></a>
+<a href="https://www.facebook.com/gagalmasuk.be"><img src="https://image.flaticon.com/icons/svg/174/174848.svg" alt="alt text" width="20" height="20"></a> <a href="?m=1"><img src="https://github.com/muhammaddzaky/muhammaddzaky/blob/master/img/logo_blogspot_by_muhammaddzaky.jpg" alt="alt text" width="20" height="20"></a> <a href="https://youtube.com/channel/DJDZAKY><img src="https://github.com/muhammaddzaky/muhammaddzaky/blob/master/img/logo_yt_by_muhammaddzaky.jpg" alt="alt text" width="20" height="20"></a> 
+&nbsp;&nbsp;     &nbsp;&nbsp;    &nbsp;&nbsp;   &nbsp;&nbsp;   &nbsp;&nbsp;   
+___
+_Smoking And Coffiee_
+___
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-## Status
+Wanna Hire Me ? 
 
-[![GithubStats](https://github-readme-stats.vercel.app/api?username=muhammaddzaky&show_icons=true)](https://github.com/muhammaddzaky)
+Contact : yayanxd@gmail.com
 
-## My Most Used Language
+#### Donate
 
-![Most lang's](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammaddzaky&langs_count=6&layout=compact)
+* Donate me on  <a href="https://saweria.co/MhdRaihanDzaky">HERE!</a>
+, or i will jump like nishimiya >:(
+
+![github stats](https://github-readme-stats.vercel.app/api?username=Yayan-XD&show_icons=true&theme=dark)
+<a href="https://github.com/Yayan-XD/Silent"><img title="SILENT" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammaddzaky&repo=Silent&theme=vision-friendly-dark"></a>
+<a href="https://github.com/Yayan-XD/Craker"><img title="CRAKER" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammaddzaky&repo=Craker&theme=vision-friendly-dark"></a>
+<a href="https://github.com/Yayan-XD/Cr4ck"><img title="Cr4ck" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammaddzaky&repo=Cr4ck&theme=vision-friendly-dark"></a>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammaddzaky&layout=compact" alt="Top language">
+
+![template_s](https://github.com/Yayan-XD/Yayan-XD/blob/master/img/wallpaperbetter_(1).jpg)
