@@ -1,32 +1,39 @@
-<img src="https://github.com/muhammaddzaky" width="120" height="120" align="left">
-<center>
+### Hello World 🌍 
 
+<a href="https://youtube.com/abdulazizahwanID">
+  <img align="left" alt="Abdul Aziz Ahwan | YouTube" width="24px" src="/assets/youtube.svg"/>
+</a>
+<a href="https://twitter.com/abdulazizahwan">
+  <img align="left" alt="Abdul Aziz Ahwan  | Twitter" width="24px" src="/assets/twitter.svg"/>
+</a>
+<a href="https://discord.com/invite/aNEPJcP">
+  <img align="left" alt="TmAnonymous's Discord" width="24px" src="/assets/discord.svg"/>
+</a>
 
-* MY SOCIAL MEDIA :
+<br />
+<br />
 
-<a href="https://Instagram.com/mr.xcyaber"><img src="https://image.flaticon.com/icons/svg/174/174855.svg" alt="alt text" width="20" height="20"></a> 
-<a href="https://wa.me/685276161113?text=Asalamualaikum+bang"><img src="https://github.com/muhammaddzaky/muhammaddzaky/blob/master/img/whatsapp.png" alt="alt text" width="20" height="20"></a>
-<a href="https://www.facebook.com/gagalmasuk.be"><img src="https://image.flaticon.com/icons/svg/174/174848.svg" alt="alt text" width="20" height="20"></a> <a href="https://squadcyberpeopleteam.blogspot.com/?m=1"><img src="https://github.com/muhamaddzaky/muhammaddzaky /blob/master/img/logo_blogspot_by_muhammaddzaky.jpg" alt="alt text" width="20" height="20"></a> <a href="https://youtube.com/DJDZAKY"><img src="https://github.com/muhammaddzaky/muhammaddzaky/blob/master/img/logo_yt_by_muhammaddzaky.jpg" alt="alt text" width="20" height="20"></a> 
-&nbsp;&nbsp;     &nbsp;&nbsp;    &nbsp;&nbsp;   &nbsp;&nbsp;   &nbsp;&nbsp;   
-___
-_Smoking And Coffiee_
-___
+I am an Android-dev, Flutter & Front End Web Enthusiast from Indonesia <img width="21px" src="/assets/id-flag.png" style="margin-left:4px"/>
 
+- 👨‍💻 I’m currently working on project [DigiCollabs](https://github.com/muhammaddzaky/muhammaddzay-web)
+- 📚 I’m currently learning FrontEnd Framework & Flutter
 
-Wanna Hire Me ? 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammaddzaky&show_icons=true&include_all_commits=true&theme=algolia" alt="Anurag's github stats"/>
+<br/>
 
-Contact : dimassuam734@gmail.com
+**Languages and Tools:**
 
-#### Donate
+<code><img height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
+<code><img height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+<code><img height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
+<code><img height="24px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 
-* Donate me on  <a href="https://saweria.co/MhdRaihanDzaky">HERE!</a>
-, or i will jump like nishimiya >:(
+<br/>
 
-![github stats](https://github-readme-stats.vercel.app/api?username=muhammaddzaky&show_icons=true&theme=dark)
-<a href="https://github.com/muhammaddzaky/Silent"><img title="SILENT" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammaddzaky&repo=Silent&theme=vision-friendly-dark"></a>
-<a href="https://github.com/muhammmaddzaky/Craker"><img title="CRAKER" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammaddzaky&repo=Craker&theme=vision-friendly-dark"></a>
-<a href="https://github.com/muhammaddzaky/Cr4ck"><img title="Cr4ck" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammaddzaky&repo=Cr4ck&theme=vision-friendly-dark"></a>
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/muhammaddzaky/github-readme-stats)*
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammaddzaky&layout=compact" alt="Top language">
+<br/>
 
-![template_s](https://github.com/muhammaddzaky/muhammaddzaky/blob/master/img/wallpaperbetter_(1).jpg)
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammaddzaky&layout=compact&theme=algolia"/>
