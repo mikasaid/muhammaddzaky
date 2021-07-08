@@ -1,10 +1,10 @@
 ### Hello World 🌍 
 
-<a href="https://youtube.com/abdulazizahwanID">
-  <img align="left" alt="Abdul Aziz Ahwan | YouTube" width="24px" src="/assets/youtube.svg"/>
+<a href="https://youtube.com/DJDZAKY">
+  <img align="left" alt="DJ DZAKY | YouTube" width="24px" src="/assets/youtube.svg"/>
 </a>
-<a href="https://twitter.com/abdulazizahwan">
-  <img align="left" alt="Abdul Aziz Ahwan  | Twitter" width="24px" src="/assets/twitter.svg"/>
+<a href="https://twitter.com/dj_dzaky">
+  <img align="left" alt="DJ DZAKY | Twitter" width="24px" src="/assets/twitter.svg"/>
 </a>
 <a href="https://discord.com/invite/aNEPJcP">
   <img align="left" alt="TmAnonymous's Discord" width="24px" src="/assets/discord.svg"/>
