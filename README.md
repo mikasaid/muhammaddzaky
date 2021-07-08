@@ -1,10 +1,6 @@
 ### Hello World 🌍 
-<a href="https://youtube.com/DJDZAKY">
-</a>
-<a href="https://twitter.com/dj_dzaky">![t](https://user-images.githubusercontent.com/58392246/124934743-314ac300-e02f-11eb-97a3-0060d1c03186.jpg)
-
 <br />
-<br />
+<br />![5](https://user-images.githubusercontent.com/58392246/124934889-5a6b5380-e02f-11eb-967c-b70ce34f9d04.jpg)
 
 I am an Android-dev, Flutter & Front End Web Enthusiast from Indonesia <img width="21px" src="/assets/id-flag.png" style="margin-left:4px"/>
 
