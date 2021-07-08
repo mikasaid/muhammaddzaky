@@ -1,14 +1,7 @@
 ### Hello World 🌍 
-
 <a href="https://youtube.com/DJDZAKY">
-  <img align="left" alt="DJ DZAKY | YouTube" width="24px" src="/assets/youtube.svg"/>
 </a>
-<a href="https://twitter.com/dj_dzaky">
-  <img align="left" alt="DJ DZAKY | Twitter" width="24px" src="/assets/twitter.svg"/>
-</a>
-<a href="https://discord.com/invite/aNEPJcP">
-  <img align="left" alt="TmAnonymous's Discord" width="24px" src="/assets/discord.svg"/>
-</a>
+<a href="https://twitter.com/dj_dzaky">![t](https://user-images.githubusercontent.com/58392246/124934743-314ac300-e02f-11eb-97a3-0060d1c03186.jpg)
 
 <br />
 <br />
