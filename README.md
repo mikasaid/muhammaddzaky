@@ -53,9 +53,9 @@ Allows you to display system information through your command line without needi
 
 As of Firefox 57 (the Quantum Update), Mozilla has enabled custom user customization using userChrome.css. With Foxify you have the ability to manage your themes for Firefox and apply them dynamically!
 
-### :brain: EasyModels - AI Dataset and Model Indexer
+### :brain: muhammaddzaky - Mr.Wibux
 
-<a href="https://pepy.tech/project/easymodels" target="_blank"><img src="https://pepy.tech/badge/easymodels" /> <a href="https://github.com/M4cs/EasyModels/stargazers"><img src="https://img.shields.io/github/stars/M4cs/EasyModels.svg" atl="Stars"></a>
+<a href="https://pepy.tech/project/easymodels" target="_blank"><img src="https://pepy.tech/badge/easymodels" /> <a href="https://github.com/muhammaddzaky/EasyModels/stargazers"><img src="https://img.shields.io/github/stars/M4cs/EasyModels.svg" atl="Stars"></a>
   
 EasyModels is an easy way to find and view deep learning projects and pre-trained models.
 
