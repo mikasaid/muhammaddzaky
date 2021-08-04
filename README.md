@@ -1,6 +1,7 @@
-![f-removebg-preview (3)](https://user-images.githubusercontent.com/58392246/127870627-23eb3f41-de2b-4002-a4d6-84f5054fdadc.png)
 
-I am an Android-dev, Flutter & Front End Web Enthusiast from Indonesia <img width="21px" src="/assets/id-flag.png" style="margin-left:4px"/>
+
+I am an Android-dev, Flutter & Front End Web Enthusiast from Indonesia <img width="21px" src="/assets/id-flag.png" style="margin-left:4px"/>![t](https://user-images.githubusercontent.com/58392246/128178451-fb4744e8-a056-49c8-9a5f-eb944f2a9779.jpg)
+
 - 👨‍💻 I’m currently working on project [DigiCollabs](https://github.com/muhammaddzaky/muhammaddzay-web)
 - 📚 I’m currently learning FrontEnd Framework & Flutter
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammaddzaky&show_icons=true&include_all_commits=true&theme=algolia" alt="Anurag's github stats"/>
