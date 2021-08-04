@@ -1,13 +1,13 @@
 <p align="center"> <img src="https://octodex.github.com/images/vinyltocat.png" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-thomas.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/daftpunktocat-guy.gif" height="160px" width="160px"> <img src="https://octodex.github.com/images/Robotocat.png" height="160px" width="160px"></p>
 
 <!-- OctoCats -->
-*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
+*NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/muhammaddzaky/github-readme-stats)*
 
 <a href="https://muhammaddzaky.github.io/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmadchen&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammaddzaky&theme=radical" />
 </a>
 <a href="https://ahmadchen.github.io/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ahmadchen&show_icons=true&theme=radical&line_height=27" alt="Paceusa github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammaddzaky&show_icons=true&theme=radical&line_height=27" alt="Paceusa github stats" />
 </a>
 
 <a href="https://github.com/tangx/Stop-Ask-Questions-The-Stupid-Ways">
