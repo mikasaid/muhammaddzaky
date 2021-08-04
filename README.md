@@ -34,7 +34,7 @@ Hey! I'm AhmadChenWangXuesi , a 18 year old software developer and QA engineer f
 
 ### :baby: Babysploit - Penetration Testing Framework for Beginners
 
-<a href="https://pepy.tech/project/babysploit"><img src="https://pepy.tech/badge/babysploit"></a> <a href="https://github.com/M4cs/BabySploit/stargazers"><img src="https://img.shields.io/github/stars/M4cs/BabySploit.svg" atl="Stars"></a>
+<a href="https://pepy.tech/project/babysploit"><img src="https://pepy.tech/badge/babysploit"></a> <a href="https://github.com/muhammaddzaky/BabySploit/stargazers"><img src="https://img.shields.io/github/stars/M4cs/BabySploit.svg" atl="Stars"></a>
 
 BabySploit is a penetration testing toolkit aimed at making it easy to learn how to use bigger,
 more complicated frameworks like Metasploit.
@@ -50,13 +50,13 @@ Allows you to display system information through your command line without needi
 
 ### :fox_face: Foxify CLI - Firefox Theme Manager
 
-<a href="https://pepy.tech/project/foxify-cli"><img src="https://pepy.tech/badge/foxify-cli"></a> <a href="https://github.com/M4cs/foxify-cli/stargazers"><img src="https://img.shields.io/github/stars/M4cs/foxify-cli"></a>
+<a href="https://pepy.tech/project/foxify-cli"><img src="https://pepy.tech/badge/foxify-cli"></a> <a href="https://github.com/muhammaddzaky/foxify-cli/stargazers"><img src="https://img.shields.io/github/stars/M4cs/foxify-cli"></a>
 
 As of Firefox 57 (the Quantum Update), Mozilla has enabled custom user customization using userChrome.css. With Foxify you have the ability to manage your themes for Firefox and apply them dynamically!
 
 ### :brain: muhammaddzaky - Mr.Wibux
 
-<a href="https://pepy.tech/project/easymodels" target="_blank"><img src="https://pepy.tech/badge/easymodels" /> <a href="https://github.com/muhammaddzaky/EasyModels/stargazers"><img src="https://img.shields.io/github/stars/M4cs/EasyModels.svg" atl="Stars"></a>
+<a href="https://pepy.tech/project/easymodels" target="_blank"><img src="https://pepy.tech/badge/easymodels" /> <a href="https://github.com/muhammaddzaky/EasyModels/stargazers"><img src="https://img.shields.io/github/stars/muhammaddzaky/EasyModels.svg" atl="Stars"></a>
   
 EasyModels is an easy way to find and view deep learning projects and pre-trained models.
 
