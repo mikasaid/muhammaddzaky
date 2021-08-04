@@ -30,11 +30,11 @@ Hey! I'm AhmadChenWangXuesi , a 18 year old software developer and QA engineer f
 <img src="https://badges.pufler.dev/years/M4cs">
 
 ## My Projects :pencil:
-<a href=""><img src="https://github-readme-stats.vercel.app/api/?username=ahmadchen&theme=prussian&show_icons=true&count_private=true" align="right"></a>
+<a href=""><img src="https://github-readme-stats.vercel.app/api/?username=muhammaddzaky&theme=prussian&show_icons=true&count_private=true" align="right"></a>
 
 ### :baby: Babysploit - Penetration Testing Framework for Beginners
 
-<a href="https://pepy.tech/project/babysploit"><img src="https://pepy.tech/badge/babysploit"></a> <a href="https://github.com/muhammaddzaky/BabySploit/stargazers"><img src="https://img.shields.io/github/stars/M4cs/BabySploit.svg" atl="Stars"></a>
+<a href="https://pepy.tech/project/babysploit"><img src="https://pepy.tech/badge/babysploit"></a> <a href="https://github.com/muhammaddzaky/BabySploit/stargazers"><img src="https://img.shields.io/github/stars/muhammaddzaky/BabySploit.svg" atl="Stars"></a>
 
 BabySploit is a penetration testing toolkit aimed at making it easy to learn how to use bigger,
 more complicated frameworks like Metasploit.
