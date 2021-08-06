@@ -7,9 +7,9 @@
   <a href="https://beacons.ai/wibux" target="blank"><img src="https://raw.githubusercontent.com/muhammaddzaky/muhammaadzaky/main/assets/icons/socials/telegram.svg" alt="mhdraihandzaky's Private Telegram" height="22px" /></a>
   <a href="https://twitter.com/dj_dzaky" target="blank"><img src="https://raw.githubusercontent.com/muhammaddzaky/muhammaddzaky/main/assets/icons/socials/twitter.svg" alt="Mahdy's Twitter" height="22px" /></a>
   <img src="https://komarev.com/ghpvc/?username=mahdymirzade&label=Views&color=c792ea&style=flat">
-  <a href="https://linkedin.com/in/MahdyMirzade" target="blank"><img src="https://raw.githubusercontent.com/MahdyMirzade/muhammaddzaky/main/assets/icons/socials/linkedin.svg" alt="Mahdy's Linkedin" height="22px" /></a>
-  <a href="https://www.youtube.com/channel/UCgQdkPgiKuhEj9bzxWgPS1w" target="blank"><img src="https://raw.githubusercontent.com/MahdyMirzade/MahdyMirzade/main/assets/icons/socials/youtube.svg" alt="Mahdy's Youtube Channel" height="22px" /></a>
-  <a href="https://odysee.com/@MahdyMirzade:0" target="blank"><img src="https://raw.githubusercontent.com/muhammaddzaky/muhammaddzaky/main/assets/icons/socials/odysee.svg" alt="Mahdy's Odysee Channel" height="22px" /></a>
+  <a href= target="blank"><img src="https://raw.githubusercontent.com/MahdyMirzade/muhammaddzaky/main/assets/icons/socials/linkedin.svg" alt="Mahdy's Linkedin" height="22px" /></a>
+  <a href="https://www.youtube.com/channel/DJDZAKYOFFICIALV2" target="blank"><img src="https://raw.githubusercontent.com/muhammaddzaky/muhammaddzaky/main/assets/icons/socials/youtube.svg" alt="Mahdy's Youtube Channel" height="22px" /></a>
+  <a href= target="blank"><img src="https://raw.githubusercontent.com/muhammaddzaky/muhammaddzaky/main/assets/icons/socials/odysee.svg" alt="Mahdy's Odysee Channel" height="22px" /></a>
 </p>
 
 <img align="right" src="https://raw.githubusercontent.com/muhammaddzaky/MahdyMirzade/main/assets/gifs/planet.gif" width="320px"/>
