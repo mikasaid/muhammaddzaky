@@ -4,7 +4,7 @@
 </h1>
 <h3 align="center">A guy, system administrator and math student.</h3>
 <p align="center">
-  <a href="mailto://me@mahdym.ir" target="blank"><img src="https://raw.githubusercontent.com/muhammaddzaky/muhammaddzaky/main/assets/icons/socials/mail.svg" alt="Mahdy's Email" height="22px" /></a>
+  <a href="mailto://mhdraihandzaky@pm.nex" target="blank"><img src="https://raw.githubusercontent.com/muhammaddzaky/muhammaddzaky/main/assets/icons/socials/mail.svg" alt="Mahdy's Email" height="22px" /></a>
   <a href="https://beacons.ai/wibux" target="blank"><img src="https://raw.githubusercontent.com/muhammaddzaky/muhammaadzaky/main/assets/icons/socials/telegram.svg" alt="Mahdy's Private Telegram" height="22px" /></a>
   <a href="https://twitter.com/dj_dzaky" target="blank"><img src="https://raw.githubusercontent.com/muhammaddzaky/muhammaddzaky/main/assets/icons/socials/twitter.svg" alt="Mahdy's Twitter" height="22px" /></a>
   <img src="https://komarev.com/ghpvc/?username=mahdymirzade&label=Views&color=c792ea&style=flat">
@@ -13,9 +13,9 @@
   <a href="https://odysee.com/@MahdyMirzade:0" target="blank"><img src="https://raw.githubusercontent.com/muhammaddzaky/muhammaddzaky/main/assets/icons/socials/odysee.svg" alt="Mahdy's Odysee Channel" height="22px" /></a>
 </p>
 
-<img align="right" src="https://raw.githubusercontent.com/MahdyMirzade/MahdyMirzade/main/assets/gifs/planet.gif" width="320px"/>
+<img align="right" src="https://raw.githubusercontent.com/muhammaddzaky/MahdyMirzade/main/assets/gifs/planet.gif" width="320px"/>
 
-### <img src="https://raw.githubusercontent.com/MahdyMirzade/MahdyMirzade/main/assets/gifs/banana.idea.gif" width="50px"/> I'm...
+### <img src="https://raw.githubusercontent.com/muhammaddzaky/muhammaddzaky/main/assets/gifs/banana.idea.gif" width="50px"/> I'm...
 - :computer: currently working for **myself**.
 - :seedling: currently learning **Web Application Development**.
 
