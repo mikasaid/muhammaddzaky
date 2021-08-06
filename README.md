@@ -1,7 +1,7 @@
 
   Hey, Mr.Wibux's Here
  alt="Mahdy's Youtube Channel" height="22px" /></a>
-  <a href= target="blank"><img src="https://raw.githubusercontent.com/muhammaddzaky/muhammaddzaky/main/assets/icons/socials/odysee.svg" alt= height="22px" /></a>
+  <a href= target="blank"><img src= alt= height="22px" /></a>
 </p>
 
 <img align="right" src= width="320px"/>
