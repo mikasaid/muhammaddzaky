@@ -4,7 +4,7 @@
   <a href= target="blank"><img src="https://raw.githubusercontent.com/muhammaddzaky/muhammaddzaky/main/assets/icons/socials/odysee.svg" alt= height="22px" /></a>
 </p>
 
-<img align="right" src="https://raw.githubusercontent.com/muhammaddzaky/MahdyMirzade/main/assets/gifs/planet.gif" width="320px"/>
+<img align="right" src= width="320px"/>
 
 ### <img src="https://raw.githubusercontent.com/muhammaddzaky/muhammaddzaky/main/assets/gifs/banana.idea.gif" width="50px"/> I'm...
 - :computer: currently working for **myself**.
