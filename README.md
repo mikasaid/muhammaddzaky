@@ -7,8 +7,8 @@ Hey, Mr.Wibux's Here
 </a>
 ### <img src= width="50px"/> Familiar with:
 <p>
-<img src="https://raw.githubusercontent.com/MahdyMirzade/MahdyMirzade/main/assets/icons/languages/c.svg" width="60px"/>
-<img src="https://raw.githubusercontent.com/MahdyMirzade/MahdyMirzade/main/assets/icons/languages/c++.svg" width="60px"/>
+<img src="https://raw.githubusercontent.com/muhammaddzaky/MahdyMirzade/main/assets/icons/languages/c.svg" width="60px"/>
+<img src="https://raw.githubusercontent.com/muhammaddzaky/MahdyMirzade/main/assets/icons/languages/c++.svg" width="60px"/>
 <img src="https://raw.githubusercontent.com/MahdyMirzade/MahdyMirzade/main/assets/icons/languages/python.svg" width="60px"/>
 <img src="https://raw.githubusercontent.com/MahdyMirzade/MahdyMirzade/main/assets/icons/languages/bash.svg" width="60px"/>
 <img src="https://raw.githubusercontent.com/MahdyMirzade/MahdyMirzade/main/assets/icons/languages/php.svg" width="60px"/>
