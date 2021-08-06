@@ -1,7 +1,5 @@
-
-  Hey, Mr.Wibux's Here
-<img align
-### <img src="https://raw.githubusercontent.com/muhammaddzaky/muhammaddzaky/main/assets/gifs/banana.idea.gif" width="50px"/> I'm...
+Hey, Mr.Wibux's Here
+### <img src="https://raw.githubusercontent.com/muhammaddzaky/muhammaddzaky/main/assets/gifs/banana.idea.gif" width="50px"/> 
 - :computer: currently working for **myself**.
 - :seedling: currently learning **Web Application Development**.
 <a href="https://github.com/anuraghazra/github-readme-stats" alt="Thanks to Anurag Hazra for his great Github Readme Stats">
