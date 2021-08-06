@@ -1,5 +1,5 @@
 Hey, Mr.Wibux's Here
-### <img src="https://raw.githubusercontent.com/muhammaddzaky/muhammaddzaky/main/assets/gifs/banana.idea.gif" width="50px"/> 
+### <img src="https://raw.githubusercontent.com/muhammaddzaky/muhammaddzaky/main/assets/gifs/banana.idea.gif" 
 - :computer: currently working for 
 - :seedling: currently learning **Web Application Development**.
 <a href="https://github.com/anuraghazra/github-readme-stats" alt="Thanks to Anurag Hazra for his great Github Readme Stats">
