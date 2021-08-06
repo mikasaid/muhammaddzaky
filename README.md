@@ -32,8 +32,8 @@ public class Okami ラコステ (){
 
 ## **GitHub Estatísticas**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=okamimks&theme=radical&show_icons=true) ![Okami](https://github-readme-stats.vercel.app/api/top-langs/?username=okamimks&hide=html&layout=compact&theme=radical)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=okamimks&theme=monokai)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammaddzakyks&theme=radical&show_icons=true) ![muhammaddzaky](https://github-readme-stats.vercel.app/api/top-langs/?username=okamimks&hide=html&layout=compact&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammaddzaky&theme=muhammaddzaky)
 
 ## **Rede Sociais!**
 
