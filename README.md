@@ -2,8 +2,7 @@
 ![Profile views](https://komarev.com/ghpvc/?username=muhammaddzaky&color=brightgreen)
 
 
-![Muhammaddzaky card name](https://cardivo.vercel.app/api?name=Muhammaddzaky%20Fadhil%20Adha&description=Hi,%20i%27m%20a%20front%20end%20web%20developer%20and%20i%27m%2019%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://avatars.githubusercontent.com/u/59252427?v=4&backgroundColor.adhaa&linkedin=%Muhammad%20muhammaddzaky%20muhammaddzaky%20%20&github=muhamaddzaky&twitter=defadels&pattern=ticTacToe&colorPattern=%23eaeaea)
-
+![Muhammaddzaky card name]https://images.app.goo.gl/V94USdYx6mmUY52E9
 
 ## Contact me
 
