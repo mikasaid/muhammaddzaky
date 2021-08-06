@@ -12,4 +12,3 @@ Hey, Mr.Wibux's Here
 <img src="https://raw.githubusercontent.com/MahdyMirzade/MahdyMirzade/main/assets/icons/languages/bash.svg" width="60px"/>
 <img src="https://raw.githubusercontent.com/MahdyMirzade/MahdyMirzade/main/assets/icons/languages/php.svg" width="60px"/>
 <img src="https://raw.githubusercontent.com/MahdyMirzade/MahdyMirzade/main/assets/icons/languages/html5.svg" width="60px"/>
-<img src="https://raw.githubusercontent.com/MahdyMirzade/muhammaddzaky/main/assets/icons/languages/css3.svg" width="60px"/>
