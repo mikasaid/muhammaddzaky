@@ -1,4 +1,4 @@
-![My card name](https://cardivo.vercel.app/api?name=muhammad%20dzaky&description=A%20Passionate%20wibux=
+![My card name]
 - 🔭 I’m currently working on my personal projects, you can check <a href="http://beacons.page/wibux">my personal website</a>
 - ⚡ Excited to create open-source projects
 - 🌱 I’m currently learning web animations and interactivity
