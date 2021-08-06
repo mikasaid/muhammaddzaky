@@ -1,6 +1,6 @@
 <h1 align="center">
   <img src="https://raw.githubusercontent.com/muhammaddzaky/muhammaddzaky/main/assets/gifs/hello.gif" width="50px"/>
-  Hey, Mahdy's Here
+  Hey, Mr.Wibux's Here
 </h1>
 <h3 align="center">A guy, system administrator and math student.</h3>
 <p align="center">
