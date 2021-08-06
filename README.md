@@ -8,7 +8,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammaddzaky&theme=radical" />
 </a>
 <a href="https://ahmadchen.github.io/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammaddzaky&show_icons=true&theme=radical&line_height=27" alt="Paceusa github stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username&show_icons=true&theme=radical&line_height=27" alt="Paceusa github stats" />
 </a>
 
 <a href="https://github.com/tangx/Stop-Ask-Questions-The-Stupid-Ways">
