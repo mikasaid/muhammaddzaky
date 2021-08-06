@@ -1,6 +1,6 @@
 
   Hey, Mr.Wibux's Here
-src="https://raw.githubusercontent.com/muhammaddzaky/muhammaddzaky/main/assets/icons/socials/youtube.svg" alt="Mahdy's Youtube Channel" height="22px" /></a>
+ alt="Mahdy's Youtube Channel" height="22px" /></a>
   <a href= target="blank"><img src="https://raw.githubusercontent.com/muhammaddzaky/muhammaddzaky/main/assets/icons/socials/odysee.svg" alt="Mahdy's Odysee Channel" height="22px" /></a>
 </p>
 
