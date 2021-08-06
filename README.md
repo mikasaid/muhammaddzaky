@@ -1,20 +1,10 @@
-![14](https://user-images.githubusercontent.com/58392246/128522662-62de063b-0f9a-4910-b73d-bbe68b6c2a41.jpg)
-### Hi there 👋
-![Profile views](https://komarev.com/ghpvc/?username=muhammaddzaky&color=brightgreen)
-![Muhammaddzaky card name]
-## Contact me
-[Facebook](https://facebook.com/wibuxx) | [Twitter](https://twitter.com/dj_dzaky)   
-<!-- Here are some ideas to get you started: -->
-<!-- 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
-## Status
-[![GithubStats](https://github-readme-stats.vercel.app/api?username=muhammaddzaky&show_icons=true)](https://github.com/muhammaddzaky)
-## My Most Used Language
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammaddzaky&theme=vue">
+![My card name](https://cardivo.vercel.app/api?name=muhammad%20dzaky&description=A%20Passionate%20Developer&image=https://avatars.githubusercontent.com/u/45036724?v=4&backgroundColor=%23293B5F&instagram=asawgi&linkedin=muhammad%20dzaky&github=zuramai&twitter=asawgi&pattern=topography&colorPattern=%2347597E&fontColor=%23ddd&iconColor=%23fff&opacity=0.3)
+
+- 🔭 I’m currently working on my personal projects, you can check <a href="http://beacons.page/wibux">my personal website</a>
+- ⚡ Excited to create open-source projects
+- 🌱 I’m currently learning web animations and interactivity
+- 😄 I'm natively speak Indonesian and fluently speak english.
+- 💕 I'm currently fall in love with NuxtJS and Laravel
+- 📫 You can reach me at my instagram [@asawgi](https://instagram.com/animewibuxd)
+
+![github stats](https://github-readme-stats.vercel.app/api?username=muhammaddzaky&show_icons=true)
