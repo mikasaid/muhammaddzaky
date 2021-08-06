@@ -5,7 +5,7 @@ Hey, Mr.Wibux's Here
 <a href="https://github.com/anuraghazra/github-readme-stats" alt="Thanks to Anurag Hazra for his great Github Readme Stats">
   <img src="https://github-readme-stats.vercel.app/api?username=muhammaddzaky&show_icons=true&theme=nightowl">
 </a>
-### <img src="https://raw.githubusercontent.com/muhammaddzaky/muhammaddzaky/main/assets/gifs/potato.dancing.git" width="50px"/> Familiar with:
+### <img src= width="50px"/> Familiar with:
 <p>
 <img src="https://raw.githubusercontent.com/MahdyMirzade/MahdyMirzade/main/assets/icons/languages/c.svg" width="60px"/>
 <img src="https://raw.githubusercontent.com/MahdyMirzade/MahdyMirzade/main/assets/icons/languages/c++.svg" width="60px"/>
