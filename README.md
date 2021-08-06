@@ -4,8 +4,8 @@
 </h1>
 <h3 align="center">A guy, system administrator and math student.</h3>
 <p align="center">
-  <a href="mailto://mhdraihandzaky@pm.nex" target="blank"><img src="https://raw.githubusercontent.com/muhammaddzaky/muhammaddzaky/main/assets/icons/socials/mail.svg" alt="Mahdy's Email" height="22px" /></a>
-  <a href="https://beacons.ai/wibux" target="blank"><img src="https://raw.githubusercontent.com/muhammaddzaky/muhammaadzaky/main/assets/icons/socials/telegram.svg" alt="Mahdy's Private Telegram" height="22px" /></a>
+  <a href="mailto://mhdraihandzaky@pm.nex" target="blank"><img src="https://raw.githubusercontent.com/muhammaddzaky/muhammaddzaky/main/assets/icons/socials/mail.svg" alt="mhdraihandzaky's Email" height="22px" /></a>
+  <a href="https://beacons.ai/wibux" target="blank"><img src="https://raw.githubusercontent.com/muhammaddzaky/muhammaadzaky/main/assets/icons/socials/telegram.svg" alt="mhdraihandzaky's Private Telegram" height="22px" /></a>
   <a href="https://twitter.com/dj_dzaky" target="blank"><img src="https://raw.githubusercontent.com/muhammaddzaky/muhammaddzaky/main/assets/icons/socials/twitter.svg" alt="Mahdy's Twitter" height="22px" /></a>
   <img src="https://komarev.com/ghpvc/?username=mahdymirzade&label=Views&color=c792ea&style=flat">
   <a href="https://linkedin.com/in/MahdyMirzade" target="blank"><img src="https://raw.githubusercontent.com/MahdyMirzade/muhammaddzaky/main/assets/icons/socials/linkedin.svg" alt="Mahdy's Linkedin" height="22px" /></a>
