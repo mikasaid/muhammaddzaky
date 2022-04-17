@@ -5,4 +5,4 @@
 - 💕 I'm currently fall in love with NuxtJS and Golang
 - 📫 You can reach me at my instagram [@muhammaddzaky](https://youtube.com/vondutchofficial)
 
-![github stats](https://github-readme-stats.vercel.app/api?username=zuramai&show_icons=true)
+![github stats](https://github-readme-stats.vercel.app/api?username=muhammaddzaky&show_icons=true)
