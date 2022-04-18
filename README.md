@@ -57,21 +57,3 @@ I'm also a fan and maintainer of open-source. I learned a lot from the open-sour
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammaddzaky&layout=compact&langs_count=7&hide=html&bg_color=0D1117&text_color=c9d1d9&icon_color=ff3860&title_color=7957d5&hide_border=true)"/>
 </div>
 
-<!--END_SECTION:waka-->
-
-<!-- If you like what I do, maybe consider buying me a coffee/tea 🥺👉👈
-
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a> -->
-
-<!-- 🚧 **My Todoist Stats:** -->
-<!-- TODO-IST:START -->
-<!-- 🏆  7,926 Karma Points           
-🌸  Completed 2 tasks today           
-✅  Completed 660 tasks so far           
-⏳  Longest streak is 10 days -->
-<!-- TODO-IST:END -->
-
-
-<!-- 📈 My GitHub Stats -->
-
-<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=muhammaddzaky&show_icons=true&theme=gotham" alt="muhammaddzaky" /> -->
