@@ -15,14 +15,3 @@
 
 
 Hi, I'm [website](https://nh.co.id/dzakysaragih), a passionate self-taught DevOps and freelance Network engineer from Indonesia. My passion for software lies in dreaming up ideas and turning them into programs that can streamline and simplify work. I take great care in the experience, architecture, and practicality of the programs and configs I create.
-
-I'm also a fan and maintainer of open-source. I learned a lot from the open-source community and I love how collaboration and knowledge sharing happen through open-source.
-
-
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/muhammaddzaky/muhammaddzaky/main/code.gif" width="500" height="320" />
-  
-- I’m currently learning Cloud and Automation.
-- The technology i often use is aws, python , docker and etc.
-- I'm natively speak Indonesian and also can speak english too.
-- Any freelance work? Do reach, [email](mail.com kang.slot@bk.ru) :)
-- Ask me about anything, I am happy to help.
