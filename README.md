@@ -1,13 +1,13 @@
 ![Mengenal-Pengertian-CCTV](https://user-images.githubusercontent.com/58392246/163803663-b08e6cf9-c95b-4e93-9c06-013fac9d125b.jpg)
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-![visitor](https://shields-io-visitor-counter.herokuapp.com/badge?page=anandadwipra.anandwipra&label=Visitor&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=2807ba&style=for-the-badge)
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anandabiru04@gmail.com)
+![visitor](https://shields-io-visitor-counter.herokuapp.com/badge?page=muhammaddzaky&label=Visitor&labelColor=000000&logo=GitHub&logoColor=FFFFFF&color=2807ba&style=for-the-badge)
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kang.slot@bk.ru)
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ananda.dwi.p/)
-[![](https://img.shields.io/badge/Facebook-4287f5?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ananda.dwi.75641297/)
+[![](https://img.shields.io/badge/Facebook-4287f5?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/mrcodin)
 [![](https://img.shields.io/badge/Discord-2807ba?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/882232353215352872/)
-[![](https://img.shields.io/badge/LinkedIn-11c8ed?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ananda-dwi-prayoga-0b909719b/)
-[![](https://img.shields.io/badge/YouTube-ed2e11?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCFElo-EB2GaTOzraBhT-wZw/featured)
+[![](https://img.shields.io/badge/LinkedIn-11c8ed?style=for-the-badge&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mhdraihandzakysaragih)
+[![](https://img.shields.io/badge/YouTube-ed2e11?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/vondutchofficial)
 
 <!-- ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=anandadwipra.anandadwipra&left_color=red&right_color=green&left_text=Visitors) -->
 
@@ -74,4 +74,4 @@ I'm also a fan and maintainer of open-source. I learned a lot from the open-sour
 
 <!-- 📈 My GitHub Stats -->
 
-<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=anandadwipra&show_icons=true&theme=gotham" alt="anandadwipra" /> -->
+<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=muhammaddzaky&show_icons=true&theme=gotham" alt="anandadwipra" /> -->
