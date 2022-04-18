@@ -46,14 +46,4 @@ I'm also a fan and maintainer of open-source. I learned a lot from the open-sour
     <img src="https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=Amazon-AWS&logoColor=white" alt="">
     <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="">    
     <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNU-Bash&logoColor=white">
-</div>
-<!--START_SECTION:waka-->
-<!-- <img src="
-<br />
-<br />
-<div align="center">
-  <h3>📊 My Github Stats And Most Used Language: </h3>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhammaddzaky&layout=compact&langs_count=7&hide=html&bg_color=0D1117&text_color=c9d1d9&icon_color=ff3860&title_color=7957d5&hide_border=true"/>
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammaddzaky&layout=compact&langs_count=7&hide=html&bg_color=0D1117&text_color=c9d1d9&icon_color=ff3860&title_color=7957d5&hide_border=true)"/>
-</div>
 
