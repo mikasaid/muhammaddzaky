@@ -74,4 +74,4 @@ I'm also a fan and maintainer of open-source. I learned a lot from the open-sour
 
 <!-- 📈 My GitHub Stats -->
 
-<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=muhammaddzaky&show_icons=true&theme=gotham" alt="anandadwipra" /> -->
+<!-- <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=muhammaddzaky&show_icons=true&theme=gotham" alt="muhammaddzaky" /> -->
