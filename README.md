@@ -26,7 +26,3 @@ I'm also a fan and maintainer of open-source. I learned a lot from the open-sour
 - I'm natively speak Indonesian and also can speak english too.
 - Any freelance work? Do reach, [email](mail.com kang.slot@bk.ru) :)
 - Ask me about anything, I am happy to help.
-<br />
-<br />
-<br />
-<br />
