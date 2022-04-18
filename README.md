@@ -30,20 +30,3 @@ I'm also a fan and maintainer of open-source. I learned a lot from the open-sour
 <br />
 <br />
 <br />
-<br />
-<br />
-<div align='center'>
-<h3>Technologies and Tools:</h3>    
-  <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=white">  
-  <img src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white" alt="">
-  <img src="https://img.shields.io/badge/alpine-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white">
-  <img src="https://img.shields.io/badge/NEO_VIM-57A143.svg?&style=for-the-badge&logo=neovim&logoColor=white" alt="">
-  <img src="https://img.shields.io/badge/python-3776AB.svg?&style=for-the-badge&logo=python&logoColor=white" alt="">
-    <img src="https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white" alt="">
-    <img src="https://img.shields.io/badge/laravel-FF2D20.svg?&style=for-the-badge&logo=laravel&logoColor=white" alt="">
-    <img src="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=docker&logoColor=white" alt="">
-    <img src="https://img.shields.io/badge/Git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white" alt="">
-    <img src="https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=Amazon-AWS&logoColor=white" alt="">
-    <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="">    
-    <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNU-Bash&logoColor=white">
-
