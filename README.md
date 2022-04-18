@@ -48,7 +48,7 @@ I'm also a fan and maintainer of open-source. I learned a lot from the open-sour
     <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=GNU-Bash&logoColor=white">
 </div>
 <!--START_SECTION:waka-->
-<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammaddzaky&theme=vue"> -->
+<!-- <img src="
 <br />
 <br />
 <div align="center">
