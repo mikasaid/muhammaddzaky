@@ -4,7 +4,7 @@
 
 ### Here are some quick infos about me :point_down:
 
-- :v: My name is Cleonildo Junior, or you can just call me Junior
+- :v: My name is Mhd Raihan Dzaky Saragih, or you can just call me Junior
 - :nerd_face: I've been studying to be a back-end developer.
 - :mortar_board: The languages I have the most experience are Java and PHP.
 - :computer: And recently I've been studying, Java with Spring Boot and doing a lot of programming challenge.
