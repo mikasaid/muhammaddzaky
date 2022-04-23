@@ -1,7 +1,5 @@
 ![Mengenal-Pengertian-CCTV](https://user-images.githubusercontent.com/58392246/163803663-b08e6cf9-c95b-4e93-9c06-013fac9d125b.jpg)
 
-# Hi there, Since you've made it this far, why not take a full look at my profile?	:blush:
-
 ### Here are some quick infos about me :point_down:
 
 - :v: My name is Mhd Raihan Dzaky Saragih, or you can just call me Junior
